@@ -1,0 +1,8 @@
+TestProject/obj/
+TestProject/bin/Debug/TestProject.vshost.exe.manifest
+TracertLib/obj/Debug/TracertLib.csproj.FileListAbsolute.txt
+TracertLib/obj/Release/TracertLib.csproj.FileListAbsolute.txt
+TracertTests/obj/Debug/TracertTests.csproj.FileListAbsolute.txt
+TracertTests/obj/Debug/build.force
+TracertTests/obj/
+Tests/obj/
